@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.1_b4898d38908db020c2ad76631914a71515a7140b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_cd306c4eda98ab12d47c675e801c655b84b82206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_edf9706502ec09750de54d19ca462f93665ad966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_4511fdb901a728e0442eb3919aab8c4d0da8294d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.1_e599a7316cb9a25edc82161039da2d6b1e3b44df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.0.1_9bfe7539fd4e26ce9dbb6d6a91d2576c44ad55c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_348b59e358a7f23165f2b5b0332ceb93107c05f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-10.0.1_d5b983e4a72c22e9a71c4dc5c2c6af8c5c0ef8d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.1_1bef1b71c479ff08a78d22394f8ee2779030f77c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_3e689c0e9f8338b6484ef4ced4d186847cff8076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_5ab042dad214b999c11f2d8dbabddb31cc26f8b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-10.0.1_68ab9701b92f2a8c406adbd67dd3bafe2ecd77f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_800b9c421710852edbff1d709a92977dfd9c08d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.1_b8762935e82745a9a0357b054763653ae394013d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_4eb3abf921174f995d2989e978f1ef7327a8163f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.0.1_6125f975eba408d8cd5198c5b36bff1ce4d0e465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-10.0.1_c4944d58f1b43c87777d669300d823341d4a26ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_0bd46697f24b96bfa80117120c325e7cb06dae21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.1_5974336b3d72f8b94c9132c0af6b3e0d866e9476.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.0.1_b14173d98cbc1988c353f52ca2caafc5b8c6e1a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-10.0.1_4dd131602f373906db55ee26e5ae1dd640aa0e17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_80a93ffeb042f6fba75a6e8b0486e35a9c244a7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-10.0.1_1079cda66662a0ff713a29c2a385130b21d41b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.1_7ae5d9bd7cbce3e9c2569daeb6b92a6f58b6ecc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_366c111a728fec64f0746f669f7c94cabe972c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.0.1_f2963737452ef4252651d04548da6628f9c8c2cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_0d7b83c1eeef1940c726bfe7f3b84c13b2a5d572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.0.1_15cd80115f5f81d6841a0e973a44765b5bf77ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_613cd42972824b6306c7baaf3eb23ad613234fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_f735c45dcf83f71de97a34bfea2c8607748d1ce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-10.0.1_a51223bb08eb7d70e353ab652f8600f2d7ff507e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-10.0.1_9041308e25df36b013ad47d827a1ab8c73fa92fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/library-2.4.0_b739e2b654dde45e6aa671332dfa683d990df60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_055ec457f49b92cfb8cc3f66e69449c7c06a6b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.0.1_5bb6e19e85421262d9d273e5288bdfbe9ffd8181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_0ed2b61f25419733006aaec0fe3aeb6c9528b58d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.1_063673353ab7063f92bac4330649a531ae2e5e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.0.1_3fba41cd4d00dc85b213f1c90aad4d0fccba6a31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.rengwuxian.materialedittext-library-2.0.3_a623ed4a225ff0be1f4fe3aadc25d3e77701058f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.0.1_1d1ed98f91101820119f1dcd7cc0136dfc9522fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_f45c8c35457bd282f44bfe2d3717bbcbd09d1372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_1679f95c06ce081916b4a18774700eeb5f7b506a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.weiwangcn.betterspinner/library-material/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8d8c5463a1a50691e2cf66cd7ce4751c8545b584">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.weiwangcn.betterspinner-library-material-1.1.0_0ac5fbafccc3b46d91ca9d519e55bd5b0e89b9c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_f36682b56d9f61cd129bb9dcb7f9c83f3092ae12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_bb082dd8ec3c8f19b2b213ebbd5bdf80575c28d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_177c593e63bb6fffa5db23c76bb87cb883132b29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_7b346334159094019dcdb17c6029f940cc4ad52e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-10.0.1_d030951107581833b74960bb1a6a67ee61a33ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.0.1_3985b6b3789a8694750f23f96b9cd9af721a9601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_65cb8f20034614072c771792af56896995fb0d00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-10.0.1_ad44a290b397aeb9ee1e4b55934b13c735b0834e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_560b2d4a0c8246f4fc22ad1978a92413d6f0efa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-10.0.1_32b8a54cbc3ab6d8c6bdad1c923e07d70cdae722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.0.1_32465a2a48aa6861fedc6aecc60235c08364784e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_8c8a87b83915b688a5d45b30c632d1649b4001d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-10.0.1_551621fede1e1be4e017049508e1f5fe73b3b19b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-10.0.1_094f5327bcc2168ee2d44fa5d42253651f557fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.1_f50677ddbf1c26a4c5a3d414fd9fb778798dca6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_d88d13fccbe2b5681a833b0dfd83317a05f91b94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.1_8f91c2a0537cb78c61975870f578f81afc7c0c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-10.0.1_82f9fa10a9e8ade4f6d416731a739b2a4de8831a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_4609a45c437fb5e18e5944220f98d6dc88e7c6ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.0.1_464f851c0e63a51942f9a627f322d6ee35c8d58f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-10.0.1_143e71a92c3110fa7ae1d086c48cfb06fd0bd993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.1_b840592aa1b6d91d4dc8445abc02f29e097cce8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.1_6b15e724bf40885e3f85579ca8b4220d1c752828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/home/umesh/AndroidStudioProjects/CreateEvent-master-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.0.1_3949337ad0a74414a585a6209e315e8d22e1884b.jar" />
+    </item>
+
+</items>
